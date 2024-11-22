@@ -26,7 +26,7 @@ def check_model_parameters(model):
 def check_input_size(model, sample_input):
     try:
         output = model(sample_input)
-        print(f''Model size validated & Test passed)
+        print(f'Model size validated & Test passed')
     except Exception as e:
         assert False, f"Model failed on 28x28 input: {e}"
 
