@@ -17,4 +17,4 @@ Here are a few samples from the augmented MNIST dataset:
 ![Augmented Image 2](./augmented_image2.png)
 
 ## Build Status
-![Build Status](https://github.com/yourusername/repositoryname/actions/workflows/ci-cd.yml/badge.svg)
+![Build Status](https://github.com/SaiAnjani/MNSIT_CICD/actions/workflows/ci-cd.yml/badge.svg)
